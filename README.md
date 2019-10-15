@@ -13,3 +13,8 @@ SYN=Synchronize Sequence Numbers
 
 ACK=ACKnowledge character
 
+
+
+传输控制协议
+
+TCP=Transmission Control Protocol
