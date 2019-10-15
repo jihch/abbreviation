@@ -18,3 +18,21 @@ ACK=ACKnowledge character
 传输控制协议
 
 TCP=Transmission Control Protocol
+
+
+
+思科认证网络工程师
+
+CCNA=Cisco Certified Network Associate
+
+
+
+思科认证网络高级工程师
+
+CCNP=Cisco Certified Network Professional
+
+
+
+思科认证互联网专家
+
+CCIE=Cisco Certified Internetwok Expert
