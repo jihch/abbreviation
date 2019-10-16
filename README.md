@@ -36,3 +36,15 @@ CCNP=Cisco Certified Network Professional
 思科认证互联网专家
 
 CCIE=Cisco Certified Internetwok Expert
+
+
+
+传输层安全性协议
+
+TLS=Transport Layer Security
+
+
+
+安全套接层
+
+SSL=Secure Sockets Layer
