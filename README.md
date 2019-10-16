@@ -66,3 +66,15 @@ IRTF=Internet Research Task Force
 对等连接
 
 P2P=peer-to-peer
+
+
+
+互联网服务提供者
+
+ISP=Internet Service Provider
+
+
+
+互联网交换点
+
+IXP=Internet eXchange Point
