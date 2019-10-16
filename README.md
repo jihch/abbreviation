@@ -48,3 +48,21 @@ TLS=Transport Layer Security
 安全套接层
 
 SSL=Secure Sockets Layer
+
+
+
+请求评论
+
+RFC=Request For Comments
+
+
+
+互联网研究部
+
+IRTF=Internet Research Task Force
+
+
+
+对等连接
+
+P2P=peer-to-peer
