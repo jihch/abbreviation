@@ -78,3 +78,9 @@ ISP=Internet Service Provider
 互联网交换点
 
 IXP=Internet eXchange Point
+
+
+
+多用途互联网邮件扩展类型
+
+MIME=Multipurpose Internet Mail Extensions
