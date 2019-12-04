@@ -84,3 +84,10 @@ IXP=Internet eXchange Point
 多用途互联网邮件扩展类型
 
 MIME=Multipurpose Internet Mail Extensions
+
+
+
+sbin=system binaries
+
+The sbin in /sbin is short for system binaries.
+
